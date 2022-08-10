@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+          "geometry": {
+              "type": "Point",
+              "coordinates": [ -75.91654784923534, 45.25409015281698]
+          },
+          "type": "Feature",
+          "properties": {
+              "category": "local_government_office",
+              "address": "1626 Stittsville Main St Unit 3, Stittsville, ON K2S 1A3",
+              "hours": "9am - 5pm",
+              "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2<li />Service 3</ul>",
+              "name": "Service Ontario",
+              "phone": "(613) 831-9480",
+              "storeid": "01"
+          }
+      },
+      {
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-75.72006478597163, 45.32647022164997]
+          },
+          "type": "Feature",
+          "properties": {
+              "category": "local_government_office",
+              "address": "1948 Merivale Rd Unit 101, Nepean, ON K2G 1E9",
+              "hours": "9am - 5pm",
+              "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2<li />Service 3</ul>",
+              "name": "Service Ontario",
+              "phone": "(613) 224-6232",
+              "storeid": "02"
+          }
+      },
+      {
+          "geometry": {
+              "type": "Point",
+              "coordinates": [-75.66531191948035, 45.37178790860979]
+          },
+          "type": "Feature",
+          "properties": {
+            "category": "local_government_office",
+            "address": "1800 Bank St Unit 5, Ottawa, ON K1V 0W3",
+            "hours": "9am - 5pm",
+            "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2</ul>",
+            "name": "Service Ontario",
+            "phone": "(613) 731-9888",
+            "storeid": "03"
+        }
+      },
+      {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.59791632327611, 45.452072962863284]
+        },
+        "type": "Feature",
+        "properties": {
+          "category": "local_government_office",
+          "address": "Westgate Shopping Centre, 1309 Carling Ave Unit 27, Ottawa, ON K1Z 7L3<p />Floor 0, Westgate Shopping Center ",
+          "hours": "9am - 5pm",
+          "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2<li />Service 3<li />Service 4</ul>",
+          "name": "Service Ontario",
+          "phone": "(613) 728-4973",
+          "storeid": "04"
+      }
+    },
+    {
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-75.68988120584383, 45.42033571194508]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "local_government_office",
+        "address": "110 Laurier Ave W, Ottawa, ON K1P 1J13<p />Floor 1, City Hall",
+        "hours": "8:30am - 5pm",
+        "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2<li />Service 3<li />Service 4<li />Service 5</ul>",
+        "name": "Service Ontario",
+        "phone": "(800) 267-8097",
+        "storeid": "05"
+      }
+    },
+    {
+      "geometry": {
+          "type": "Point",
+          "coordinates": [-75.59851539480006, 45.452273996877715]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "local_government_office",
+        "address": "2339 Ogilvie Rd Unit 14, Ottawa, ON K1J 8M6",
+        "hours": "9am - 5pm",
+        "description": "Service Ontario office with the following services: <ul><li />Service 1<li />Service 2<li />Service 3<li />Service 4<li />Service 5</ul>",
+        "name": "Service Ontario",
+        "phone": "(613) 745-9992",
+        "storeid": "06"
+      }
+    }
+  ]
+}
